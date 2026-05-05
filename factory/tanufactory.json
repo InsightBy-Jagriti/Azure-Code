@@ -1,0 +1,15 @@
+{
+	"name": "tanufactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79b94b69-b7d1-4643-9550-6e6e38956c0b",
+		"tenantId": "81e3bc96-f962-4855-b570-95565b657a4f"
+	}
+}
